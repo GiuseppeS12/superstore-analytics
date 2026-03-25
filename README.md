@@ -1,4 +1,4 @@
-# 📊 Superstore Analytics Pipeline
+# 📊 Superstore Analytics Pipeline - Kaggle Case Study
 
 End-to-end data pipeline project using Kaggle, PySpark, Airflow, MySQL and Metabase.
 
